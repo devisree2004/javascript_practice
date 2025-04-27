@@ -30,7 +30,7 @@
 /*operator precedence
 
    1.parentheses ()
-   2. exponents
+   2.exponents
    3.multiplication, division and modulo 
    4.addition and subtraction 
 
@@ -45,17 +45,28 @@
 
 // let username;
 // window.prompt("enter the username : ");
-
+//window.prompt takes the input in the form of strings 
+/*
 let username;
 document.getElementById("submit").onclick = function(){
     username=document.getElementById("user").value;
     console.log(username);
 
 }
-
-
+*/
 
 //-----------------accept user input ------------------->
 
+//type conversions means converting one data type to another 
+//strings,numbers and boolean
+// let x= 0 ...let x= "a"...let x= "qwer".......x=Boolean(x);.......this returns true...it returns false only when there is no value in the variable
+//let x="name"...x=Number(x)........returns NaN number 
+// let x=10 ...x=String(x)....returns 10 string 
+
+//<--------------type conversions----------------------->
+
+// const pi=3.1416
+
+//<-------------constants------------------------------->
 
 
