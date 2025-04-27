@@ -69,4 +69,32 @@ document.getElementById("submit").onclick = function(){
 
 //<-------------constants------------------------------->
 
+//MATH is a built in object that provides a collection of properties and methods
+
+// console.log(Math.PI);
+// console.log(Math.E);
+/*
+  let x=3.12345
+  let z;
+  z=Math.round(x);
+  console.log(z);
+  z=Math.ceil(x);
+  z=Math.floor(x);
+  z=Math.pow(x);
+  z=Math.sqrt(x);
+  z=Math.log(x);
+  z=Math.sin(x);
+  z=Math.cos(x);
+  z=Math.tan(x);
+  z=Math.abs(x);
+  z=Math.sign(x);
+   let max=Math.max(x,z);
+   let min=Math.min(x,z);
+*/
+
+//<--------------------Math object------------------------>
+
+// let randomNum =Math.random()*n //n is the limit 
+//for (m,n) let randomNum=(Math.random()*n)+m;
+// console.log(randomNum);
 
